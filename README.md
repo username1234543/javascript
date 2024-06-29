@@ -67,7 +67,7 @@ Other Style Guides
 
     - `Строчечка`
     - `Нумбер`
-    - `boolean`
+    - `Боолеан`
     - `null`
     - `undefined`
     - `symbol`
