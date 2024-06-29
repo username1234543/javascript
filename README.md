@@ -68,7 +68,7 @@ Other Style Guides
     - `Строчечка`
     - `Нумбер`
     - `Боолеан`
-    - `null`
+    - `Нулл`
     - `undefined`
     - `symbol`
     - `bigint`
