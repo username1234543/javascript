@@ -66,7 +66,7 @@ Other Style Guides
   - [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
 
     - `Строчечка`
-    - `number`
+    - `Нумбер`
     - `boolean`
     - `null`
     - `undefined`
